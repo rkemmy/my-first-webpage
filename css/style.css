@@ -13,3 +13,14 @@ p{
 ul{
   line-height: 40px;
 }
+li{
+  font-size: 12;
+  font-family: cursive;
+  background-color: #5C6460;
+}
+strong{
+  font-style: italic;
+}
+em{
+  font-weight: bold;
+}
